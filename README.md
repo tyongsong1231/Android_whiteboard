@@ -12,4 +12,5 @@ The first time using GitHub, so nervous. Will you be beaten if you say something
 第一次使用GitHub，好紧张。说错了会不会挨打？
 
 
-![image](https://github.com/tyongsong1231/Android_whiteboard/tree/master/app/src/main/assets/screenshots/sc.png)
+         
+![image](https://github.com/tyongsong1231/Android_whiteboard/blob/master/app/src/main/assets/screenshots/sc.png)
